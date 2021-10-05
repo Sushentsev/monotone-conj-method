@@ -17,5 +17,5 @@ python3 mon_conj_method.py --in_path <INPUT FILE PATH> --out_path <OUTPUT FILE P
 
 To see help message with arguments description use:
 ```shell
-python monotonic_conjugation.py --help
+python3 mon_conj_method.py --help
 ```
