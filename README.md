@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 To run monotonic conjugation check use:
 ```shell
-python3 mon_conj_method.py --in_dir <INPUT FILE PATH> --out_dir <OUTPUT FILE PATH>
+python3 mon_conj_method.py --in_path <INPUT FILE PATH> --out_path <OUTPUT FILE PATH>
 ```
 
 To see help message with arguments description use:
